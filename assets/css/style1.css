@@ -1,0 +1,29 @@
+
+body{
+   
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+section{
+    width: 100%;
+    max-width: 800px;
+}
+
+section details{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+section details summary{
+    background-color: #024a59;
+    padding: 2%;
+    border-bottom: 2px solid #282828;
+}
+
+section details p{
+    background-color: #484848;
+    padding: 2%;
+    transition: all .5s;
+}
